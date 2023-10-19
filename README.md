@@ -1,5 +1,6 @@
 
-![breathless](https://github.com/Epiteh/Breath-less/assets/114670767/63405ebe-c9a5-4799-96a0-f435924898e6)
+![breathless](https://github.com/Epiteh/Breath-less/assets/114670767/955a7abd-9b30-4ac2-b39f-4a2683f5e465)
+
 
 # 🌃 Breath-less
 
@@ -16,11 +17,11 @@ A pharmaceutical research company, LOGOS, has quarantined the city in order to t
 ## 🗺️ Images
 - The map:
   
-![main_map](https://github.com/Epiteh/Breath-less/assets/114670767/bd2486e4-e630-42f3-8ff7-6fa741886a05)
+![main_map](https://github.com/Epiteh/Breath-less/assets/114670767/27c77d9c-2789-41b9-9c4b-f77e701110b5)
 
 - Play rendering:
 
-![image](https://github.com/Epiteh/Breath-less/assets/114670767/c3cb5bba-a2f9-4082-b811-30facc30b716)
+![image](https://github.com/Epiteh/Breath-less/assets/114670767/2e041b2d-8aa0-4564-9824-8e8724b7d6a8)
 
 ## 🔥 Usage examples
 
